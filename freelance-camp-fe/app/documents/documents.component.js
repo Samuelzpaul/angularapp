@@ -12,26 +12,26 @@ var DocumentsComponent = /** @class */ (function () {
         this.pageTitle = "Document Dashboard";
         this.documents = [
             {
-                title: "My first Doc",
-                description: "asdf asdf asdf",
-                file_url: "http://google.com",
-                updated_at: "11/11/16",
-                image_url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg",
+                title: "My First Doc",
+                description: 'asdfasdfasdf asdfasd',
+                file_url: 'http://google.com',
+                updated_at: '11/11/16',
+                image_url: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg',
             },
             {
-                title: "My second Doc",
-                description: "asdf asdf asdf",
-                file_url: "http://google.com",
-                updated_at: "11/11/16",
-                image_url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg",
+                title: "My Second Doc",
+                description: 'asdfasdfasdf asdfasd',
+                file_url: 'http://google.com',
+                updated_at: '11/11/16',
+                image_url: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg',
             },
             {
-                title: "My third Doc",
-                description: "asdf asdf asdf",
-                file_url: "http://google.com",
-                updated_at: "11/11/16",
-                image_url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg",
-            },
+                title: "My Last Doc",
+                description: 'asdfasdfasdf asdfasd',
+                file_url: 'http://google.com',
+                updated_at: '11/11/16',
+                image_url: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg',
+            }
         ];
     }
     DocumentsComponent = __decorate([
